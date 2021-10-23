@@ -6,3 +6,4 @@ const fetchJSON = url => fetch(url)
 
 
 const response = ftechJSON('https://jsonplaceholder.typicode.com/todos');
+console.log('DEBUG: ~ file: fetch.lib.js ~ line 9 ~ response', response);
