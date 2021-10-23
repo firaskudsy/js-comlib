@@ -1,3 +1,3 @@
 // public Rest-API for testing
 
-const fetchJSON = url =>
+const fetchJSON = url => 
