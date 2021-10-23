@@ -5,4 +5,4 @@ const fetchJSON = url => fetch(url)
   .then(response => response.json())
 
 
-const response = ftech
+const response = ftechJSON
