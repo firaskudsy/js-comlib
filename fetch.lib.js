@@ -1,1 +1,1 @@
-// public Rest
+// public Rest-API for _.templateSettings()
