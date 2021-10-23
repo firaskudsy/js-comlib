@@ -5,4 +5,4 @@ const fetchJSON = url => fetch(url)
   .then(response => response.json())
 
 
-const response = ftechJSON()
+const response = ftechJSON('https://jsonplaceholder.typicode.com/todos')
